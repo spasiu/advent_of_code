@@ -1,5 +1,4 @@
 import fs from 'fs';
-import assert from 'assert';
 
 const n = fs.readFileSync('./2025_12_03_input.txt', 'utf8')
     .split('\n')
